@@ -25,6 +25,20 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Cliquez ici](http://dailysims.com/)
 
-kzhziuqhfiufe
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Un lien</h1>
+
+[Cliquez ici](http://dailysims.com/)
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
 
