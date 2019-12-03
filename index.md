@@ -34,8 +34,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   <script src="script.js"></script>
 </head>
 <body>
-  ...
-  <!-- Le reste du contenu -->
+ Salut
+ {Link}(http://dailysims.com/)
   ...
 </body>
 </html>
