@@ -34,9 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   <script src="script.js"></script>
 </head>
 <body>
- Salut
- {Link}(http://dailysims.com/)
-  ...
+lkhyutre
 </body>
 </html>
 
