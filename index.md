@@ -18,7 +18,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-http://dailysims.com/
 
 1. Numbered
 2. List
@@ -29,6 +28,8 @@ http://dailysims.com/
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+http://dailysims.com/
 
 ### Jekyll Themes
 
