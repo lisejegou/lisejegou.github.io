@@ -25,17 +25,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Cliquez ici](http://dailysims.com/)
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+kzhziuqhfiufe
 
 
