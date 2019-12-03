@@ -25,16 +25,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Cliquez ici](http://dailysims.com/)
 
-<!doctype html>
-<html lang="fr">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8">
-  <title>Titre de la page</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
+<title>Page Title</title>
 </head>
 <body>
-lkhyutre
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
+
 
